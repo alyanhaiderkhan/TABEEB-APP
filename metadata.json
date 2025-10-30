@@ -1,0 +1,4 @@
+{
+  "name": "ICU Automation – Patient Monitoring App",
+  "description": "A medical IoT monitoring app for hospital ICUs. It provides real-time patient vitals, a dashboard view, and role-based access for doctors and nurses to manage patient data, with data stored in Google Sheets."
+}
